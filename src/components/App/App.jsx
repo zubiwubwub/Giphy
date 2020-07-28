@@ -11,7 +11,7 @@ import Gif from '../Gif/Gif';
 class App extends Component {
   state = {
     gifs: [],
-    selectedGifId: 'tOWyML1WPzKjm'
+    selectedGifId: '3ornk57KwDXf81rjWM'
   };
 
   handleSearch = (event) => {
